@@ -1,16 +1,38 @@
-## Hi there 👋
 
-<!--
-**YasinSyed-2099/YasinSyed-2099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Yasin Syed
 
-Here are some ideas to get you started:
+🎯 **Data Analyst | Python | SQL | Power BI | Excel | Statistics**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+I'm a passionate data analyst who loves turning raw data into meaningful insights.  
+I specialize in **data cleaning, visualization, and automation** using Python, Power BI, and Excel.  
+Currently exploring **Machine Learning & Predictive Analytics**.
+
+---
+
+## 💼 My Interests
+- 📊 **Data Visualization:** Creating interactive dashboards in Power BI & Tableau  
+- 🤖 **Machine Learning:** Building predictive models with real-world datasets  
+- 🧠 **Statistics & Analytics:** Hypothesis testing, correlation, and data insights  
+- ☁️ **Big Data Tools:** Learning SQL, AWS, and advanced Python libraries  
+
+---
+
+## 🧰 Skills
+**Languages:** Python, SQL, R  
+**Tools:** Power BI, Tableau, Excel, GitHub, MySQL  
+**Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
+**Concepts:** Data Cleaning, EDA, Machine Learning, Dashboard Design  
+
+---
+
+## 🌐 How to Reach Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/yourusername)  
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)](https://github.com/yourusername)  
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:yourname@gmail.com)  
+
+---
+
+⭐ *"Data is the new oil — I just love refining it!"*
