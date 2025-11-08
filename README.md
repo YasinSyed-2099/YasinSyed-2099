@@ -2,7 +2,6 @@
 
 🎯 **Data Analyst | Python | SQL | Power BI | Excel | Statistics**
 
----
 
 ## 🚀 About Me
 I'm a passionate data analyst who loves turning raw data into meaningful insights.  
