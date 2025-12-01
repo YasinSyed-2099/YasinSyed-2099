@@ -38,5 +38,5 @@ Coming...
 ## 📫 How to Reach Me  
 - **LinkedIn:** *[Yasin S](https://www.linkedin.com/in/yasin-syedmadharraja/)*  
 - **Email:** *yasinsyedmadharraja@gmail.com*  
-- **GitHub Portfolio:** *this README itself*  
+- **GitHub Portfolio:** *[Read me](https://github.com/YasinSyed-2099/YasinSyed-2099)*  
 
