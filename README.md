@@ -1,11 +1,10 @@
 # 👋 Hi, I'm Yasin S
 
-I’m a Data Analyst with a BSc in Computer Science (AI & Data Science), backed by practical training and internship experience working with real-world datasets.  
-I specialize in transforming raw data into structured insights through data cleaning, modeling, visualization, and reporting.
+Hi, I’m Yasin S, a 2025 BSc Computer Science graduate with a specialization in AI & Data Science. I have completed practical training and internship experience working with real datasets, developing strong skills in Python, SQL, Power BI, Excel, and reporting.
 
-My experience includes end-to-end data analysis using SQL, Power BI, Excel, and Python, along with building dashboards and performing exploratory analysis across multiple domains such as retail, insurance, medical data, and inventory management.
+I have hands-on experience in end-to-end data analysis, including data cleaning, data modeling, dashboard creation, and deriving actionable insights from raw data.
 
-I’m continuously improving my analytical thinking, problem-solving, and business understanding while working on practical, project-based learning.
+I’m passionate about solving data-driven problems and continuously improving my analytical and problem-solving abilities.
 
 📌 **Actively seeking Data Analyst opportunities**  
 📌 **Open to collaborations and networking**
