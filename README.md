@@ -19,22 +19,6 @@ I’m passionate about solving data-driven problems and continuously improving m
 
 ---
 
-## 📊 Featured Projects  
-
-### 🔹 Customer Segmentation Analysis (Power BI)  
-- Analyzed 3 years of sales data to identify customer behavior patterns  
-- Built a KPI-driven Power BI dashboard using DAX & star-schema modeling  
-- Delivered insights on age groups, gender trends, and product category performance  
-
-### 🔹 Automobile Insurance Complaint Analysis (SQL + Power BI)  
-- Analyzed complaint and premium trends using SQL  
-- Identified insurer performance, complaint ratios, and service gaps  
-- Created interactive dashboards for trend and ratio comparison  
-
-Coming...
-
----
-
 ## 📫 How to Reach Me  
 - **LinkedIn:** *[Yasin S](https://www.linkedin.com/in/yasin-syedmadharraja/)*  
 - **Email:** *yasinsyedmadharraja@gmail.com*  
