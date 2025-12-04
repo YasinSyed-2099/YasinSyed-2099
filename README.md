@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yasin S <sub>[ Download CV](https://github.com/YasinSyed-2099/YasinSyed-2099/blob/main/Yasin_S%20Cv%20December%202025.docx)</sub>
+# 👋 Hi, I'm Yasin S                 <sub>[ Download CV](https://github.com/YasinSyed-2099/YasinSyed-2099/blob/main/Yasin_S%20Cv%20December%202025.docx)</sub>
 
 Hi, I’m Yasin S, a 2025 BSc Computer Science graduate with a specialization in AI & Data Science. I have completed practical training and internship experience working with real datasets, developing strong skills in Python, SQL, Power BI, Excel, and reporting.
 
