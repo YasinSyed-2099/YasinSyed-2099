@@ -23,3 +23,6 @@ I’m passionate about solving data-driven problems and continuously improving m
 - **LinkedIn:** [Yasin S](https://www.linkedin.com/in/yasin-syedmadharraja/)  
 - **Email:** yasinsyedmadharraja@gmail.com  
 - **GitHub Portfolio:** [Read me](https://github.com/YasinSyed-2099/YasinSyed-2099)
+
+---
+## 👇 Projects  
