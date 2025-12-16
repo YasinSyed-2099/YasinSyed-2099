@@ -15,7 +15,7 @@ I’m passionate about solving data-driven problems and continuously improving m
 **Languages:** Python, SQL  
 **Tools:** Power BI, Excel, MySQL  
 **Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
-**Concepts:** Data Cleaning, EDA, Data Modeling, Dashboard Design, KPI Analysis  
+**Concepts:** Statistics, Data Cleaning, EDA, Data Modeling, Dashboard Design, KPI Analysis
 
 ---
 
